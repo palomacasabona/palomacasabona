@@ -3,7 +3,7 @@
 <br>
 <p>I'm Paloma, a web developer and programmer in <strong>process</strong>👩‍💻.</p> 
 <br>
-<img src="https://s8.gifyu.com/images/ezgif.com-gif-maker-3f9742526709955c7.gif" alt="ezgif.com gif maker (3)" width="24" height="24" data-is360="0" data-load="full" class="" style="width: 24px; height: 24px;">I can tell about myself that I am passionate about sciences and technologies since my childhood, as I consider myself being very curious about everything, I love to explore and accomplish new challenges. Currently learning by myself, with online tutorials, some courses done in different platforms.
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://s8.gifyu.com/images/ezgif.com-gif-maker-48a13a56b63d4f4cb.gif">I can tell about myself that I am passionate about sciences and technologies since my childhood, as I consider myself being very curious about everything, I love to explore and accomplish new challenges. Currently learning by myself, with online tutorials, some courses done in different platforms.
 <br>
 <p>😃 I'm happy & very excited and completely overwhelmed by this new world I am discovering with the help of some of my friends. I can not wait to learn more and more about this endless IT world. So I can say that I am very aware of the lastest technologies, I follow some of the most active programmers in some of my social media (<strong>LinkedIn & Twitter</strong>), and feel very motivated to learn new tools and languages to be on the top of this infinite field.</p>
 
