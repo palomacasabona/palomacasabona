@@ -1,10 +1,9 @@
 <h1>🌸 About me 🌸</h1> 
 <h2>Hi everyone <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="29px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></h2> 
 <br>
-
-
-<p>I'm Paloma, a web developer and programmer in <strong>process</strong>👩‍💻.</p> <br>
-I can tell about myself that I am passionate about sciences and technologies since my childhood, as I consider myself being very curious about everything, I love to explore and accomplish new challenges. Currently learning by myself, with online tutorials, some courses done in different platforms.
+<p>I'm Paloma, a web developer and programmer in <strong>process</strong>👩‍💻.</p> 
+<br>
+<img src="https://s8.gifyu.com/images/ezgif.com-gif-maker-3f9742526709955c7.gif" alt="ezgif.com gif maker (3)" width="24" height="24" data-is360="0" data-load="full" class="" style="width: 24px; height: 24px;">I can tell about myself that I am passionate about sciences and technologies since my childhood, as I consider myself being very curious about everything, I love to explore and accomplish new challenges. Currently learning by myself, with online tutorials, some courses done in different platforms.
 <br>
 <p>😃 I'm happy & very excited and completely overwhelmed by this new world I am discovering with the help of some of my friends. I can not wait to learn more and more about this endless IT world. So I can say that I am very aware of the lastest technologies, I follow some of the most active programmers in some of my social media (<strong>LinkedIn & Twitter</strong>), and feel very motivated to learn new tools and languages to be on the top of this infinite field.</p>
 
