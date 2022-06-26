@@ -2,12 +2,15 @@
 <h2>Welcome to my page!! <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="29px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width: 100%;"></h2> 
 <br>
 <p>I'm Paloma, a web developer and programmer in <strong>process</strong>👩‍💻.</p> 
-🌸 I can tell about myself that I am passionate about sciences and technologies since my childhood, as I consider myself being very curious about everything, I love to explore and accomplish new challenges. 
+🌸 I can tell about myself that I am passionate about sciences and technologies since my childhood, as I consider myself being very curious about everything, I love to explore and accomplish new challenges.
+<img src="https://pbs.twimg.com/profile_images/1540477700489486337/ZaVL6JxH_400x400.jpg" float="right" style="max-width: 70%;"> 
 <br>
 🌸 Currently learning by myself, with online tutorials, some courses done in different platforms.
-<img src="https://pbs.twimg.com/profile_images/1540477700489486337/ZaVL6JxH_400x400.jpg" align="right" style="max-width: 100%;">
+
 </p>
+
 <hr>
+<img alt="dev" class="AnimatedGif" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/media/68ac8b92385e92e951bdf81b360a3a9c.gif" style="display: block; float:left";max-width="50%">
 <h2 dir="auto"><a id="user-content-️-skills" class="anchor" aria-hidden="true" href="#️-skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">🛠️</g-emoji> Skills</h2>
 <h3 dir="auto"><a id="user-content-front-end-development" class="anchor" aria-hidden="true" href="#front-end-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Front-End Development</h3>
 
@@ -15,7 +18,6 @@
 <br>
 <br></p>
 <p dir="auto">
-  <img alt="dev" class="AnimatedGif" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/media/68ac8b92385e92e951bdf81b360a3a9c.gif" style="display: block; opacity: 1; float:inline-end">
   <a href="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" rel="nofollow"><img alt="React" src="https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
   <a href="https://camo.githubusercontent.com/110c5bcf93c6198cad7e9b9387a32f4bde312d55f7e081a33e9e727b68abc770/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5765627061636b2d3844443646393f7374796c653d666c61742d737175617265266c6f676f3d7765627061636b266c6f676f436f6c6f723d7768697465" rel="nofollow"></a> 
   <a href="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" rel="nofollow"><img alt="Docker" src="https://camo.githubusercontent.com/4d015bf250194995d899a5d2b90babf1afc4458c1589b93e58fdfa4119749a49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446f636b65722d3436613266313f7374796c653d666c61742d737175617265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
