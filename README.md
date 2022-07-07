@@ -25,7 +25,6 @@
     </section>
     <section>
         
-    </section>
 </header> 
 <br>
 <body>
