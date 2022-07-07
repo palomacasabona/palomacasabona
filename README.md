@@ -27,8 +27,6 @@
 </header> 
 <br>
 <body>
-    
-
 <hr style="">
     <img alt="dev" class="AnimatedGif" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif" style="display: block; float:left";max-width="50%">
     <h2 dir="auto"><a id="user-content-️-skills" class="anchor" aria-hidden="true" href="#️-skills">
