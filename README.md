@@ -4,6 +4,13 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Required meta tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Paloma Casabona Github Page</title>
 </head>
 <body>
     
@@ -80,8 +87,17 @@
 <br>
 <br>
 <!--  buy me a coffee button -->
+    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="pcasabona" data-             color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-           color="#ffffff" ></script>
+<!--  Social Media -->
+        <div class="col-sm-5 col-md-4 col-lg-3 social-links text-center">
+            <ul class="list-inline mt-5">
+               <li class="list-inline-item"><a href="https://twitter.com/palomacasabona"><i class="fa fa-twitter social-icon" aria-hidden="true"></i></a></li>
+               <li class="list-inline-item"><a href="#"><i class="fa fa-linkedin social-icon" aria-hidden="true"></i></a></li>
+               <li class="list-inline-item"><a href="#"><i class="fa fa-github social-icon" aria-hidden="true"></i></a></li>
+            </ul>
+        </div>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="pcasabona" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
 </body>
 
 </html>
