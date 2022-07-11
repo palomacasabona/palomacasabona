@@ -5,6 +5,65 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
+    <style> a {
+  backface-visibility:unset;
+  cursor: pointer;
+  color: #ecf0f1;
+  font-family: verdana;
+  text-decoration: none;
+}
+.container {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    perspective: 1000px;
+    background: #f6f7fc;
+  }
+  .card {
+    cursor: pointer;
+    position: relative;
+    width: 8rem;
+    height: 8rem;
+    margin: 0.5rem;
+    text-align: center;
+    line-height: 8rem;
+    color: #ecf0f1;
+    font-family: verdana;
+    border-radius: 0.8rem;
+    transform-style: preserve-3d;
+  }
+  .face {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 0.8rem;
+    background-size: cover;
+    backface-visibility: hidden;
+    background-position: center center;
+    transition: transform 0.5s ease-in-out;
+  }
+  .face--front {
+    background: #2c3e50;
+    font-size: 3rem;
+  }
+  .face--back {
+    background: #2c3e50;
+    font-size: 1.5rem;
+    transform: rotateX(180deg);
+  }
+  .card:hover .face--front {
+    transform: rotateX(-180deg);
+  }
+  .card:hover .face--back {
+    transform: rotateX(0deg);
+    
+  }
+    </style>
 </head>
 <body>
     <header>
@@ -79,9 +138,32 @@
 <img src="https://camo.githubusercontent.com/3ade724cce65a6532e221df4176dbfc4c129597e84cb0bd98766e2860722ea28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465" alt="vs-code" data-canonical-src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/6af20814b73fa87bf69601142084f37ff997168b188e8508ba9f22dd214d14df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77735f31302d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="windows" data-canonical-src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;">
 <br>
 <br>
-<!--  buy me a coffee button -->
-    <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="pcasabona" data-             color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-           color="#ffffff" ></script>
+<div class="container">
+    <div class="card">
+        
+        <div class="face face--front"><i class="fa-brands fa-twitter"></i></div>
+        <div class="face face--back ">twitter
+            <a href="https://twitter.com/palomacasabona" class="face face--back twitter" target="_blank">twitter</a>
+        </div>
+    </div>
+    <div class="card">
+        <div class="face face--front"><i class="fa-brands fa-linkedin"></i></div>
+        <div class="face face--back">linkedin
+            <a href="https://www.linkedin.com/in/palomacasabona/" class="face face--back linkedin" target="_blank">linkedin</a>
+        </div>
+    </div>
+    <div class="card">
+        <div class="face face--front"><i class="fa-brands fa-github"></i></div>
+        <div class="face face--back">github
+            <a href="https://github.com/palomacasabona/personalweb" class="face face--back"
+            target="_blank">github</a>
+        </div>
+    </div>
+</div>
+   
+  </div>
 
+<script src="https://kit.fontawesome.com/634feab991.js" crossorigin="anonymous"></script>
 
 
 </body>
