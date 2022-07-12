@@ -4,66 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <style> a {
-  backface-visibility:unset;
-  cursor: pointer;
-  color: #ecf0f1;
-  font-family: verdana;
-  text-decoration: none;
-}
-.container {
-    display: flex;
-    width: 100%;
-    height: 100vh;
-    justify-content: center;
-    align-items: center;
-    perspective: 1000px;
-    background: #f6f7fc;
-  }
-  .card {
-    cursor: pointer;
-    position: relative;
-    width: 8rem;
-    height: 8rem;
-    margin: 0.5rem;
-    text-align: center;
-    line-height: 8rem;
-    color: #ecf0f1;
-    font-family: verdana;
-    border-radius: 0.8rem;
-    transform-style: preserve-3d;
-  }
-  .face {
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    border-radius: 0.8rem;
-    background-size: cover;
-    backface-visibility: hidden;
-    background-position: center center;
-    transition: transform 0.5s ease-in-out;
-  }
-  .face--front {
-    background: #2c3e50;
-    font-size: 3rem;
-  }
-  .face--back {
-    background: #2c3e50;
-    font-size: 1.5rem;
-    transform: rotateX(180deg);
-  }
-  .card:hover .face--front {
-    transform: rotateX(-180deg);
-  }
-  .card:hover .face--back {
-    transform: rotateX(0deg);
-    
-  }
-    </style>
+     <style type="text/css">
+    a{backface-visibility:unset;cursor: pointer;color: #ecf0f1;font-family: verdana;text-decoration: none;}
+    .container{display: flex;width: 100%;height: 100vh;justify-content: center;align-items: center;perspective: 1000px;background: #f6f7fc;}
+    .card{cursor: pointer;position: relative;width: 8rem;height: 8rem;margin: 0.5rem;text-align: center;line-height: 8rem;color: #ecf0f1;font-family:           verdana;border-radius: 0.8rem;transform-style: preserve-3d;}
+    .face{display: block;position: absolute;top: 0;left: 0;width: 100%;height: 100%;border-radius: 0.8rem;background-size: cover;backface-visibility:           hidden;background-position: center center;transition: transform 0.5s ease-in-out}
+    .face--front {background: #2c3e50;font-size: 3rem;}
+    .face--back {background: #2c3e50;font-size: 1.5rem;transform: rotateX(180deg);}
+    .card:hover .face--front {transform: rotateX(-180deg);}
+    .card:hover .face--back {transform: rotateX(0deg);}
+  </style>
 </head>
 <body>
     <header>
@@ -90,9 +40,8 @@
     <img alt="dev" class="AnimatedGif" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-13-1.gif" style="display: block; float:left";max-width="50%">
     <h2 dir="auto"><a id="user-content-️-skills" class="anchor" aria-hidden="true" href="#️-skills">
 
-    </path></svg></a><g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">
-        🛠️</g-emoji> Skills</h2>
-        <h3 dir="auto"><a id="user-content-front-end-development" class="anchor" aria-hidden="true" href="#front-end-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Front-End Development</h3>
+        🛠️ <h2>Skills</h2>
+      
 
 <!--  BADGES -->
 <br>
@@ -138,9 +87,11 @@
 <img src="https://camo.githubusercontent.com/3ade724cce65a6532e221df4176dbfc4c129597e84cb0bd98766e2860722ea28/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56535f436f64652d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465" alt="vs-code" data-canonical-src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=Visual-Studio-Code&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/6af20814b73fa87bf69601142084f37ff997168b188e8508ba9f22dd214d14df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77735f31302d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" alt="windows" data-canonical-src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;">
 <br>
 <br>
+    SOCIAL MEDIA
+  
+
 <div class="container">
     <div class="card">
-        
         <div class="face face--front"><i class="fa-brands fa-twitter"></i></div>
         <div class="face face--back ">twitter
             <a href="https://twitter.com/palomacasabona" class="face face--back twitter" target="_blank">twitter</a>
@@ -160,13 +111,16 @@
         </div>
     </div>
 </div>
-   
   </div>
-
-<script src="https://kit.fontawesome.com/634feab991.js" crossorigin="anonymous"></script>
+    
+    <img src="https://camo.githubusercontent.com/c3f856bacd5b09669157ed4774f80fb9d8622dd45ce8fdf2990d3552db99bd27/68747470733a2f2f7777772e6275796d6561636f666665652e636f6d2f6173736574732f696d672f637573746f6d5f696d616765732f6f72616e67655f696d672e706e67" alt="&quot;Buy Me A Coffee&quot;" data-canonical-src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="max-width: 100%;">
 
 
 </body>
-
 </html>
+
+
+
+
+
 
