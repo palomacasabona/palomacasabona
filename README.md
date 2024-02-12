@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palomacasabona
 - 👀 I’m interested in Node.js, backend, mostly. 
-- 🌱 I’m currently learning Javascript, PHP
+- 🌱 I’m currently learning Javascript, and Laravel
 - 💞️ I’m looking to collaborate on any frontend project in JS
 - 📫 How to reach me ... hit me here in tghisn platform. 
 
