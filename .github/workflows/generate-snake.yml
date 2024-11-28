@@ -1,0 +1,28 @@
+name: Generate Snake Animation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Esto genera la animación diariamente
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clona tu repositorio
+        uses: actions/checkout@v2
+
+      - name: Genera Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: palomacasabona
+          output: dist/snake.svg
+
+      - name: Agrega y sube el Snake al repositorio
+        run: |
+          git config --global user.name "palomacasabona"
+          git config --global user.email "tu_email@ejemplo.com"
+          mv dist/snake.svg output/github-contribution-grid-snake.svg
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Actualización automática del Snake"
+          git push
