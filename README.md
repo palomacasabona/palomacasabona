@@ -27,9 +27,6 @@
 
 ---
 
-![Gráfico de actividad]
-(https://activity-graph.herokuapp.com/graph?username=palomacasabona&theme=radical)
----
 
 🔗 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palomacasabona/)
