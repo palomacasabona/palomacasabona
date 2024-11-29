@@ -15,10 +15,15 @@
 ---
 
 ### 🚀 Mis habilidades
-- 🌐 Desarrollo Web: HTML, CSS, JavaScript, Laravel, Tailwind. 
-- 🖥️ Backend: Node.js, MySQL, Java.
-- ✍️ Diseño: Illustrator, Photoshop, Procreate. 
-- 🛠️ Herramientas: Git, Docker, AWS.
+<div>
+  <ul style="display: inline-block; vertical-align: top;">
+    <li>🌐 Desarrollo Web: HTML, CSS, JavaScript, Laravel, Tailwind</li>
+    <li>🖥️ Backend: Node.js, MySQL, Java</li>
+    <li>✍️ Diseño: Illustrator, Photoshop, Procreate</li>
+    <li>🛠️ Herramientas: Git, Docker, AWS</li>
+  </ul>
+  <img src="https://github.com/palomacasabona/palomacasabona/blob/main/bro-code-console.gif" alt="GIF de programación" width="200" style="float: right; margin-left: 10px;"/>
+</div>
 
 ---
 
