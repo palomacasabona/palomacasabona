@@ -33,6 +33,8 @@
 ### 🌍 Cosas que me inspiran:
 - 🧡 **La creatividad y los Moomins**
 - 🌙 **La riqueza de las culturas**
+- 🎨 **La belleza del arte en todas sus formas**
+- 🤫 **El silencio como motor de reflexión y creatividad**
 - 💻 **Resolver problemas a través del código**
 
 
