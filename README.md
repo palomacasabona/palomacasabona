@@ -1,7 +1,7 @@
 # 🌟 ¡Hola! Soy @palomacasabona 
 
 <div align="center">  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> <!-- GIF de la manita -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/> <!-- GIF de la manita -->
   <img ser="https://github.com/palomacasabona/palomacasabona/raw/peach-goma.gif" width="70"7> <!--gatitto coding -->
 </div>
 
