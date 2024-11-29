@@ -11,10 +11,10 @@
 ---
 
  🚀 Mis habilidades
-- 🌐 Desarrollo Web: HTML, CSS, JavaScript, Laravel
+- 🌐 Desarrollo Web: HTML, CSS, JavaScript, Laravel, Tailwind
 - 🖥️ Backend: Node.js, MySQL
 - ✍️ Diseño: Figma, Photoshop
-- 🛠️ Herramientas: Git, Docker, CI/CD
+- 🛠️ Herramientas: Git, Docker, AWS
 
 ---
 
