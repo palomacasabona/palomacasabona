@@ -50,12 +50,6 @@
 
 ---
 
-### 🌟 Proyectos Destacados:
-- [![Proyecto 1](https://img.shields.io/badge/-Mi_App_Incidencias-blue)](https://github.com/palomacasabona/proyecto1)
-- [![Proyecto 2](https://img.shields.io/badge/-Diseño_en_Figma-purple)](https://figma.com)
-- [![Proyecto 3](https://img.shields.io/badge/-Automatización_de_Tareas-orange)](https://github.com/palomacasabona/proyecto3)
-
----
 
 ### 🔗 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palomacasabona/)
