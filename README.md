@@ -1,9 +1,12 @@
-# 🌟 ¡Hola! Soy @palomacasabona 
+# 🌟 ¡Hola! Soy @palomacasabona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> <!-- GIF de la manita -->
 
-<div align="center">  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70"/> <!-- GIF de la manita -->
-  <img ser="https://github.com/palomacasabona/palomacasabona/raw/peach-goma.gif" width="70"7> <!--gatitto coding -->
-</div>
+<div align="center">
+  <img src="https://github.com/palomacasabona/palomacasabona/raw/main/peach-goma.gif" alt="GIF de Peach Goma" width="200"/>
+</div></div>
+<br>
+<br>
+
+
 
 🧑‍💻 Desarrolladora Full Stack | 🎨 Diseñadora | 🌍 Amante de las Culturas e idiomas
 
