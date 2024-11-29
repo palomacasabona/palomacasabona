@@ -1,12 +1,8 @@
-# 🌟 ¡Hola! Soy @palomacasabona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> <!-- GIF de la manita -->
+# 🌟 ¡Hola! Soy @palomacasabona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
 <div align="center">
   <img src="https://github.com/palomacasabona/palomacasabona/raw/main/peach-goma.gif" alt="GIF de Peach Goma" width="200"/>
-</div></div>
-<br>
-<br>
-
-
+</div>
 
 🧑‍💻 Desarrolladora Full Stack | 🎨 Diseñadora | 🌍 Amante de las Culturas e idiomas
 
@@ -15,15 +11,19 @@
 ---
 
 ### 🚀 Mis habilidades
-<div>
-  <ul style="display: inline-block; vertical-align: top;">
-    <li>🌐 Desarrollo Web: HTML, CSS, JavaScript, Laravel, Tailwind</li>
-    <li>🖥️ Backend: Node.js, MySQL, Java</li>
-    <li>✍️ Diseño: Illustrator, Photoshop, Procreate</li>
-    <li>🛠️ Herramientas: Git, Docker, AWS</li>
-  </ul>
-  <img src="https://github.com/palomacasabona/palomacasabona/blob/main/bro-code-console.gif" alt="GIF de programación" width="200" style="float: right; margin-left: 10px;"/>
-</div>
+
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <tr>
+    <td style="vertical-align: top; border: 1px solid black;">
+      <ul>
+        <li>🌐 Desarrollo Web: HTML, CSS, JavaScript, Laravel, Tailwind</li>
+        <li>🖥️ Backend: Node.js, MySQL, Java</li>
+        <li>✍️ Diseño: Illustrator, Photoshop, Procreate</li>
+        <li>🛠️ Herramientas: Git, Docker, AWS</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,21 +45,26 @@
 - 🤫 **El silencio como motor de reflexión y creatividad**
 - 💻 **Resolver problemas a través del código**
 
-
 ---
 
 ### 🏆 Trofeos en GitHub
 <div align="center">
-  [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=palomacasabona&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="https://github-profile-trophy.vercel.app/?username=palomacasabona&theme=radical" alt="Trofeos de GitHub" width="90%"/>
 </div>
 
 ---
 
-### 🌆 Mi GitHub Skyline
-[🌆 Ver mi skyline en 3D](https://skyline.github.com/palomacasabona/2023)
+### 📊 Contador de visitas
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=palomacasabona&label=Visitas%20a%20mi%20perfil&color=brightgreen" alt="Contador de visitas"/>
+</div>
 
 ---
 
-
 ### 🔗 Encuéntrame en:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/palomacasabona/)
+
+---
+
+### 🌆 Mi GitHub Skyline
+🌆 [Ver mi skyline en 3D](https://skyline.github.com/palomacasabona/2023)
