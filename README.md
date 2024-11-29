@@ -1,8 +1,8 @@
-# 🌟 ¡Hola! Soy @palomacasabona 👋
+# 🌟 ¡Hola! Soy @palomacasabona 
 
-<div align="center">
+<div align="center">  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/> <!-- GIF de la manita -->
-  <img src="https://github.com/palomacasabona/palomacasabona/raw/main/tu_avatar.gif" alt="Palomi Programando" width="200"/>
+  <img ser="https://github.com/palomacasabona/palomacasabona/raw/peach-goma.gif" width="70"7> <!--gatitto coding -->
 </div>
 
 🧑‍💻 Desarrolladora Full Stack | 🎨 Diseñadora | 🌍 Amante de las Culturas e idiomas
