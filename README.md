@@ -1,7 +1,7 @@
 # 🌟 ¡Hola! Soy @palomacasabona <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
 
 <div align="center">
-  <img src="https://github.com/palomacasabona/palomacasabona/raw/main/peach-goma.gif" alt="GIF de Peach Goma" width="200"/>
+    <img src="https://github.com/palomacasabona/palomacasabona/blob/main/hola2.jpg" alt="GIF de Peach Goma" width="auto"/>
 </div>
 
 🧑‍💻 Desarrolladora Full Stack | 🎨 Diseñadora | 🌍 Amante de las Culturas e idiomas
