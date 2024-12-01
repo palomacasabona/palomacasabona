@@ -69,5 +69,3 @@
 
 ---
 
-### 🌆 Mi GitHub Skyline
-🌆 [Ver mi skyline en 3D](https://skyline.github.com/palomacasabona/2023)
