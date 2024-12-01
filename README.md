@@ -4,6 +4,9 @@
     <img src="https://github.com/palomacasabona/palomacasabona/blob/main/hola2.jpg" alt="GIF de Peach Goma" width="auto"/>
 </div>
 
+<br>
+<br>
+
 🧑‍💻 Desarrolladora Full Stack | 🎨 Diseñadora | 🌍 Amante de las Culturas e idiomas
 
 > 🌠 Siempre aprendiendo, explorando y creando. ¡El código es mi herramienta para transformar ideas en realidad!
